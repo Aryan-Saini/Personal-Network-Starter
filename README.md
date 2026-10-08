@@ -1,3 +1,5 @@
+> **This repo is archived.** It is replaced by [agent-fleet](https://github.com/Aryan-Saini/agent-fleet): the same controller, worker and phone setup, with working commands, packages for any OS, and a prompt that builds your fleet for you.
+
 # Personal Network Starter
 
 An agent-maintained template for a personal device network: a MacBook is the controller, an Arch
